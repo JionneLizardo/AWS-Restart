@@ -1,5 +1,5 @@
 # Goanna Restart 
-## This repository contains materials used for Teaching and Learning
+## A repository for AWS re/Start contains materials used for Teaching and Learning
 
 ### Setup your own GitHub repo
 
@@ -9,7 +9,7 @@
 ### Clone this repo for study purposes using:
 ``` 
 
-git clone https://github.com/Georges034302/Restart.git
+git clonehttps://github.com/JionneLizardo/AWS-Restart.git
 
 ```
 
